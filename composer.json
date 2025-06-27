@@ -1,0 +1,21 @@
+{
+    "name": "php-contrib/representation",
+    "description": "Supports HTTP resource representation interoperability",
+    "type": "library",
+    "require": {
+        "php": ">=7.1"
+    },
+    "scripts": {
+	"lint": "phpcs --standard=PSR1,PSR12 ./src",
+	"lint-fix": "phpcbf --standard=PSR1,PSR12 ./src"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.13"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "PhpContrib\\Representation\\": "src/"
+        }
+    }
+}
