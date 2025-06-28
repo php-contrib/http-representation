@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PhpContrib\Representation;
+namespace PhpContrib\Http\Representation;
 
 use Stringable;
 

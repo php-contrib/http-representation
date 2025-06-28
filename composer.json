@@ -1,5 +1,5 @@
 {
-  "name": "php-contrib/representation",
+  "name": "php-contrib/http-representation",
   "description": "Supports HTTP resource representation interoperability",
   "type": "library",
   "require": {
@@ -15,7 +15,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "PhpContrib\\Representation\\": "src/"
+      "PhpContrib\\Http\\Representation\\": "src/"
     }
   }
 }
