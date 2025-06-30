@@ -1,3 +1,9 @@
+## 1.0.3 (2025-06-29)
+
+### Fix
+
+- reduce distributed package size
+
 ## 1.0.2 (2025-06-27)
 
 ### Fix
